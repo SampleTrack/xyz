@@ -12,7 +12,7 @@ dnspython
 marshmallow
 umongo
 motor
-pytz==25.3
+pytz
 
 #---utils & others---#
 certifi
@@ -31,5 +31,6 @@ pyaes
 #---scrapers---#
 python_flipkart_scraper
 python-amazon-scraper
+
 
 
