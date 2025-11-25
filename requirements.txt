@@ -24,6 +24,8 @@ python-dotenv
 schedule
 soupsieve
 urllib3
+lxml
+wheel
 
 #---scrapers---#
 python_flipkart_scraper
