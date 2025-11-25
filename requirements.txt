@@ -12,7 +12,7 @@ dnspython
 marshmallow
 umongo
 motor
-pytz
+pytz==25.3
 
 #---utils & others---#
 certifi
@@ -25,8 +25,11 @@ schedule
 soupsieve
 urllib3
 wheel
+lxml==4.9.3
+pyaes
 
 #---scrapers---#
 python_flipkart_scraper
 python-amazon-scraper
+
 
