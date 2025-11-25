@@ -24,13 +24,11 @@ python-dotenv
 schedule
 soupsieve
 urllib3
-wheel
-lxml==4.9.3
-pyaes
 
 #---scrapers---#
 python_flipkart_scraper
 python-amazon-scraper
+
 
 
 
